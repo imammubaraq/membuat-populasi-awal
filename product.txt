@@ -1,0 +1,22 @@
+aqua,5000
+teh botol,4000
+sprit,6000
+cocola,6500
+taro,3000
+momogi,2000
+chitato,4500
+pilus,2000
+teh sosoro,4000
+rokok,18000
+kripik,3000
+kentang,2000
+sosis,7000
+qtela,2500
+krupuk 5000
+es boba,11000
+mie lidi,2500
+telur,3000
+saos sambal,6000
+seblak,12000
+nasi ayam,13000
+nasi bebek,15000
