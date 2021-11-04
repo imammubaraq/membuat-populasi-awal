@@ -18,5 +18,5 @@ mie lidi,2500
 telur,3000
 saos sambal,6000
 seblak,12000
-nasi ayam,13000
-nasi bebek,15000
+nasi ayam,12000
+kecap ayam,90000
